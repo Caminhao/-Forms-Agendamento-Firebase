@@ -1,0 +1,27 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.projeto.primeiroapp"
+    },
+    "cordova-plugin-media": {
+      "PACKAGE_NAME": "com.projeto.primeiroapp"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "com.projeto.primeiroapp"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.projeto.primeiroapp"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.projeto.primeiroapp"
+    }
+  },
+  "dependent_plugins": {}
+}
